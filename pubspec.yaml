@@ -9,7 +9,7 @@ environment:
   sdk: '>=2.3.0 <3.0.0'
 
 dependencies:
-  csslib: '>=0.13.2 <0.17.0'
+  csslib: any
   source_span: '>=1.0.0 <2.0.0'
 
 dev_dependencies:
